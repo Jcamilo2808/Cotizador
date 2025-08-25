@@ -7,7 +7,7 @@ from io import BytesIO
 st.set_page_config(page_title="COTIZADOR PRODUCTO ARTESANAL", page_icon="💎", layout="wide")
 
 # === (Opcional) Logo ===
-LOGO_PATH = "https://github.com/Jcamilo2808/Cotizador/blob/main/Diseno_sin_titulo-removebg-preview.png"
+LOGO_PATH = https://github.com/Jcamilo2808/Cotizador/blob/main/Diseno_sin_titulo-removebg-preview.png
 
 def encode_img_b64(path: str) -> str:
     try:
